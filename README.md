@@ -19,6 +19,5 @@ npm run build
 
 Each task folder has its own configuration. See the [TypeScript README](TypeScript/README.md) for the task list and run commands.
 
-## Author
 
-**Abeer Al-Saiari** — [@Abeerr0](https://github.com/Abeerr0)
+**Abeer AlSaiari** 
